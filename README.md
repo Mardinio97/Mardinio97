@@ -4,7 +4,7 @@
 
 - 🎓 I’m currently studying at Linnaeus University!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other and share experince.
+- 👯 I’m looking to collaborate with others and share experince.
 - 🎯 2022 Goals: Learn more about Front-End development.
 - 🌟 Cool fact: I admire to travel and discover new technolgies.
 
