@@ -1,4 +1,4 @@
-# Hi there, Welcome to mt GitHub Profile😁👋
+# Hi there, Welcome to my GitHub Profile😁👋
 
 ## I'm a Khalil Mardini a Computer Science Student.
 
