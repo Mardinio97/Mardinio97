@@ -9,7 +9,7 @@
 - 🌟 Cool fact: I admire to travel and discover new technolgies.
 
 
-<img align="right" alt="Java" width="40px" height="40px" src="https://www.svgrepo.com/show/184143/java.svg" style="padding-right:10px;" />
+<img align="right" alt="Java" width="100px" height="40px" src="https://www.svgrepo.com/show/184143/java.svg" style="padding-right:10px;" />
 
 ### Connect with me:
 
