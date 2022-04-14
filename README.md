@@ -20,8 +20,8 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/khalil-mardini-91b9ab98/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/khalil-mardini-91b9ab98/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/_khalilmardini_/)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/_khalilmardini_/)
 
 ### Languages and Tools:
 
