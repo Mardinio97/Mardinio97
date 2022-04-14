@@ -8,6 +8,9 @@
 - 🎯 2022 Goals: Learn more about Front-End development.
 - 🌟 Cool fact: I admire to travel and discover new technolgies.
 
+
+<img align="right" alt="Java" width="26px" src="file:///C:/Users/Mardi/Downloads/java-svgrepo-com%20(1).svg" style="padding-right:10px;" />
+
 ### Connect with me:
 
 &nbsp;&nbsp;
